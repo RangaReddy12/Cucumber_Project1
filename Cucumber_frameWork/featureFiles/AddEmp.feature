@@ -42,6 +42,7 @@ When i capture emp id value
 When i click save button
 When i capture Employee id value
 When i close browser
+Then i validate emp creation
 Examples:
 |FirstName|Middlename|LastName|
 |akhi1|selenium71|manual41|
